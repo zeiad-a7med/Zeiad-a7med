@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm zeiad ahmed</h1>
-<h3 align="center">A passionate IOS developer from Egypt</h3>
-# 💫 About Me:
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact
+# Welcome to My GitHub! 🚀
 
+## 👋 Hello, I'm zeiad ahmed
+I'm a Software Engineer with a deep passion for coding and technology. I love turning complex ideas into practical solutions for mobile development field.
+
+## 🎓 Education & Experience
+- **Degree**: Bachelor degree in Computer Science , Helwan University (Class of 2023)
+- **Graduation Project**: *OMS (Online maintinance service)* – Developed an mobile application for users to request services, track progress, and rate jobs. Technicians can view
+and manage job requests. Admin app for user and technician management, achieving an A+ grade.
+- **Experience**: 2 years in Mobile Development feield.
+
+## 📈 What I'm Learning
+- ⚡ Advanced IOS concepts and best practices.
+- 🔭 The ins and outs of mobile development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zeiad-ahmed-3373a2298/) 
